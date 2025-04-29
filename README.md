@@ -1,1 +1,1 @@
-A simple C++ game made without any basic libraries. We did not use even chrono or threads to make this game. It turned out to be turn based that way. Only object oriented programming and C++ coding skills are used in this game. It can be played in terminal without any need of installation.
+A simple C++ game made without using any external libraries. We did not use even chrono or threads to make this game. It is a turn based simple  game. We coded this simple C++ game engine ourselves. It can be played in terminal without any need of external installation.
